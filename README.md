@@ -1,3 +1,8 @@
+NAMA  : Fadhil Syahidan Arizki
+NIM   : 244107060125
+KELAS : SIB 2F
+ABSEN : 08
+
 A. Ringkasan Praktikum
 - Pada pertemuan pertama ini, fokus utama praktikum adalah melakukan persiapan lingkungan pengembangan (development environment) untuk pengembangan aplikasi menggunakan Flutter.
 Berikut adalah tahapan yang telah saya lakukan:
